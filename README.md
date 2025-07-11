@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lishenxydlgzs-simple-files-vectorstore-badge.png)](https://mseep.ai/app/lishenxydlgzs-simple-files-vectorstore)
+
 # @lishenxydlgzs/simple-files-vectorstore
 
 A Model Context Protocol (MCP) server that provides semantic search capabilities across files. This server watches specified directories and creates vector embeddings of file contents, enabling semantic search across your documents.
